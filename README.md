@@ -39,8 +39,8 @@ Spring 프로젝트의 resources 디렉토리 하위에 schema.sql 파일 생성
 Spring 프로젝트의 resources 디렉토리 하위에 data.sql 파일 생성 후 SQL을 작성한다
 
 <img src="https://github.com/Hong5743/h2-DB/assets/136396772/3dd6d73b-4207-4a71-a6b5-0ab7d1b417a3"  width="400" height="400"/>
-
-<img src="https://github.com/Hong5743/h2-DB/assets/136396772/b99d00e4-b62a-4f2e-a524-8d0d0b4c2f99"  width="400" height="400"/>
+<br>
+<img src="https://github.com/Hong5743/h2-DB/assets/136396772/b99d00e4-b62a-4f2e-a524-8d0d0b4c2f99"  width="600" height="200"/>
 
 Spring Boot 애플리케이션 재시작 후 H2 DB 콘솔에서 확인해보면, data.sql의 SQL문이 동작한 것을 확인할 수 있다
 
