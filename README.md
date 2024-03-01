@@ -24,4 +24,4 @@ ACID 트랜잭션 지원: H2는 ACID(Atomicity, Consistency, Isolation, Durabili
 
 ## 설정을 끝내고 h2 db 사용 방법
 
-<img src="https://github.com/Hong5743/h2-DB/assets/136396772/611e709f-9e90-4f6f-9342-2bb3882bbd55"  width="200" height="400"/>
+<img src="https://github.com/Hong5743/h2-DB/assets/136396772/611e709f-9e90-4f6f-9342-2bb3882bbd55"  width="400" height="400"/>
